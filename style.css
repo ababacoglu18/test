@@ -457,9 +457,15 @@ h3{
 
 
 
+      .about-img{
+        align-items: left;
+            max-width: 500px;
+            overflow: hidden !important;
+        }
         .about-content{
             display: flex;
             flex-direction: column;
+            align-items: center;
         }
 
 
